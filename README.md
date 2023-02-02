@@ -7,6 +7,10 @@
 |  ----  | ----   | ----  |  
 | v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip)|
 
+## 下载软件
+
+仓库里的软件 `v2rayN.7z` （电脑版使用）直接下载解压使用
+
 ## v2ray节点注册
 
 点击 [v2ray节点注册](https://go.runba.cyou/auth/register?code=XXN0) ，注册后在该网站用户中心获取订阅链接或拷贝全部节点 URL，根据其用户中心的快速使用帮助下的相应操作系统的帮助文档操作即可。 注册后免费获得1024M初始流量
