@@ -5,7 +5,7 @@
 所有免费节点都爬取自网络，请勿用于非法用途  
 |  工具  | Android  | Windows  |  
 |  ----  | ----   | ----  |  
-| v2ray  | [v2rayNG](https://go.runba.cyou/ssr-download/clash.apk) | [v2rayN](https://go.runba.cyou/ssr-download/v2rayn.zip)|
+| v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.8.19/v2rayNG_1.8.19.apk) | [v2rayN](https://go.runba.cyou/ssr-download/v2rayn.zip)|
 
 ## 下载软件
 
